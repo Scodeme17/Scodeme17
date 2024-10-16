@@ -1,4 +1,4 @@
-# Hi there, I'm Sohan Shah 👋
+![image](https://github.com/user-attachments/assets/403764a8-ddf0-4794-afd8-f7248215ca7f)# Hi there, I'm Sohan Shah 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Scodeme17&style=for-the-badge&color=brightgreen)
 
@@ -41,7 +41,7 @@
 ## 📌 Pinned Repositories
 [![Data-Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=Data-Analytics&theme=radical)](https://github.com/Scodeme17/Data-Analytics)
 [![Nepal-Stock-Market-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=Nepal-Stock-Market-Analysis&theme=radical)](https://github.com/Scodeme17/Nepal-Stock-Market-Analysis)
-[![My-Portfolio.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=codeforyou8785.github.io&theme=radical)](https://github.com/Scodeme17/codeforyou8785.github.io)
+[![My-Portfolio.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=.github.io&theme=radical)](https://github.com/Scodeme17/My-Portfolio.github.io)
 
 ---
 
