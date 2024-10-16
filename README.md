@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 - 🎓 I'm a Computer Science student passionate about data analytics and machine learning.
 - 🌱 I’m currently learning more about advanced data visualization and deep learning techniques.
-- 💡 I enjoy working on projects that involve data automation, web scraping, and predictive analytics.
+- 💡 I enjoy working on projects involving data automation, web scraping, and predictive analytics.
 - 🔍 I’m interested in collaborating on open-source data science projects.
 
 ## 🔧 Technologies & Tools
@@ -23,18 +23,18 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scodeme17&layout=compact&theme=radical)
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeforyou8785&repo=Data-Analytics&theme=radical)](https://github.com/Scodeme17/Data-Analytics)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeforyou8785&repo=Nepal-Stock-Market-Analysis&theme=radical)](https://github.com/Scodeme17/Nepal-Stock-Market-Analysis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=codeforyou8785&repo=My-Portfolio.github.io&theme=radical)](https://github.com/Scodeme17/My-Portfolio.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=Data-Analytics&theme=radical)](https://github.com/Scodeme17/Data-Analytics)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=Nepal-Stock-Market-Analysis&theme=radical)](https://github.com/Scodeme17/Nepal-Stock-Market-Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=codeforyou8785.github.io&theme=radical)](https://github.com/Scodeme17/codeforyou8785.github.io)
 
 ## 📫 How to Reach Me
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohan-kumar-83b61025a)
 - [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shahkroshan)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/code_me17)
 
-## 🚀 Latest Activity>
+## 🚀 Latest Activity
 - 📝 Updated `Data-Analytics` repository with new datasets and visualizations
 - ⭐ Starred [open-source project](https://github.com/somecoolproject)
-
+- 🎉 Created a new repository: `Scodeme17`
 
 _**Thank you for visiting my GitHub profile!**_ 🎉
