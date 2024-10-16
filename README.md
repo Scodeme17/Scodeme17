@@ -42,7 +42,6 @@
 ## 📌 Pinned Repositories
 [![Data-Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=Data-Analytics&theme=radical)](https://github.com/Scodeme17/Data-Analytics)
 [![Nepal-Stock-Market-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=Nepal-Stock-Market-Analysis&theme=radical)](https://github.com/Scodeme17/Nepal-Stock-Market-Analysis)
-[![My-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=My-Portfolio&theme=radical)](https://github.com/Scodeme17/My-Portfolio.github.io))
 
 ---
 
