@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/403764a8-ddf0-4794-afd8-f7248215ca7f)# Hi there, I'm Sohan Shah 👋
+![image](https://github.com/user-attachments/assets/403764a8-ddf0-4794-afd8-f7248215ca7f)
+# Hi there, I'm Sohan Shah 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Scodeme17&style=for-the-badge&color=brightgreen)
 
@@ -41,13 +42,13 @@
 ## 📌 Pinned Repositories
 [![Data-Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=Data-Analytics&theme=radical)](https://github.com/Scodeme17/Data-Analytics)
 [![Nepal-Stock-Market-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=Nepal-Stock-Market-Analysis&theme=radical)](https://github.com/Scodeme17/Nepal-Stock-Market-Analysis)
-[![My-Portfolio.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=.github.io&theme=radical)](https://github.com/Scodeme17/My-Portfolio.github.io)
+[![My-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=My-Portfolio&theme=radical)](https://github.com/Scodeme17/My-Portfolio)
 
 ---
 
 ## 🛠️ Dynamic GitHub Activity (Updated Daily)
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Scodeme17&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scodeme17&theme=dracula" />
 </p>
 
 ---
@@ -77,6 +78,6 @@
 ## 👀 Fun Fact
 ```python
 def greet(name="World"):
-    print(f"Hello, {name}! 🚀")
+    return f"Hello, {name}! 🚀 Welcome to my GitHub profile."
 
-greet("GitHub Visitor")  # Try this in your Python console!
+print(greet("GitHub Visitor"))  # Try this in your Python console!
