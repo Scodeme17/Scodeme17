@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/403764a8-ddf0-4794-afd8-f7248215ca7f)
+
 # Hi there, I'm Sohan Shah 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Scodeme17&style=for-the-badge&color=brightgreen)
