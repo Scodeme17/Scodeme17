@@ -41,7 +41,7 @@
 ## 📌 Pinned Repositories
 [![Data-Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=Data-Analytics&theme=radical)](https://github.com/Scodeme17/Data-Analytics)
 [![Nepal-Stock-Market-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=Nepal-Stock-Market-Analysis&theme=radical)](https://github.com/Scodeme17/Nepal-Stock-Market-Analysis)
-[![codeforyou8785.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=codeforyou8785.github.io&theme=radical)](https://github.com/Scodeme17/codeforyou8785.github.io)
+[![My-Portfolio.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Scodeme17&repo=codeforyou8785.github.io&theme=radical)](https://github.com/Scodeme17/codeforyou8785.github.io)
 
 ---
 
