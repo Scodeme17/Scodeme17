@@ -1,5 +1,5 @@
 
-# Hi there, I'm Sohan Shah 👋
+# Hi there, I'm Sohan Kumar Shah 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Scodeme17&style=for-the-badge&color=brightgreen)
 
