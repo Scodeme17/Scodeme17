@@ -1,9 +1,6 @@
 
 # Hi there, I'm Sohan Kumar Shah 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Scodeme17&style=for-the-badge&color=brightgreen)
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif" width="250"/>
 
 ## 👨‍💻 About Me
 - 🎓 I'm a **Computer Science** student passionate about **data analytics** and **machine learning**.
